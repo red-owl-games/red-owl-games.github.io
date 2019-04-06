@@ -3,4 +3,6 @@ layout: default
 title: Red Owl Games
 ---
 
-We're Emily and Kyle!
+<div class="home" id="home">
+  We're Emily and Kyle!
+</div>
