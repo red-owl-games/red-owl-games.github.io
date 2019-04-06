@@ -1,15 +1,11 @@
 ---
-title: 'Unity + USC'
+title: 'Time for a Test Run!'
 date: 2019-04-06 00:00:00
 featured_image: '/images/square.jpg'
 excerpt: It was the perfect opportunity to get my feet wet in the game development life cycle while also finding out how well @rocktavious and I would work together.
 ---
 
-![](/images/landscape.jpg)
-
-## Game Development Course
-
-Time for a Test Run!
+![](/images/sidebar.jpg)
 
 We formed a company.  We spent countless hours talking about the games we want.  We created a mission, values, company goals.  We bought a domain.  The another!  We have official email addressed.  We even finally have a bank account (with money in it!).
 
