@@ -3,6 +3,7 @@ title: 'Time for a Test Run!'
 date: 2019-04-06 00:00:00
 featured_image: '/images/square.jpg'
 excerpt: It was the perfect opportunity to get my feet wet in the game development life cycle while also finding out how well @rocktavious and I would work together.
+published: false
 ---
 
 ![](/images/sidebar.jpg)
