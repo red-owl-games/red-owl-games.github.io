@@ -4,19 +4,24 @@ description: What We Do
 
 url: https://redowlgames.com
 baseurl: ""
+paginate: 5
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
-paginate: 5
+include : [ "_pages", "_posts" ]
 
 navigation:
   - title: Home
     url: /index.html
   - title: About
     url: /about
+  - title: Blog
+    url: /blog
+  - title: Blog2
+    url: /pages/blog
 
 social:
   github: red-owl-games
