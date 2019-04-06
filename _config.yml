@@ -18,7 +18,7 @@ navigation:
   - title: About
     url: /about
   - title: Blog
-    url: /blog.html
+    url: /stories
 
 social:
   github: red-owl-games
