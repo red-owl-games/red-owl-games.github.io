@@ -5,13 +5,13 @@ description: What We Do
 url: https://redowlgames.com
 baseurl: ""
 paginate: 5
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "pages/blog/page:num/"
+permalink: pages/blog/:title/
 
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
-include : [ "_pages", "_posts" ]
+include : [ "pages", "_posts" ]
 
 navigation:
   - title: Home
@@ -19,8 +19,6 @@ navigation:
   - title: About
     url: /about
   - title: Blog
-    url: /blog
-  - title: Blog2
     url: /pages/blog
 
 social:
