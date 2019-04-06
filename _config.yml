@@ -1,30 +1,54 @@
-remote_theme: brianmaierjr/long-haul
-title: Red Owl Games
-description: What We Do
+site: Journal Jekyll Theme
 
-url: https://redowlgames.com
-baseurl: ""
-paginate: 5
-paginate_path: "pages/blog/page:num/"
-permalink: pages/blog/:title/
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /blog/:slug
+  projects:
+    output: true
+    permalink: /project/:slug
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
 
 markdown: kramdown
-highlighter: rouge
-plugins: [jekyll-paginate]
-include : [ "pages", "_posts" ]
 
-navigation:
-  - title: Home
-    url: /index.html
-  - title: About
-    url: /about
-  - title: Blog
-    url: /pages/blog
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+sass:
+  style: compressed
 
-social:
-  github: red-owl-games
-  twitter: red_owl_games
-  facebook: 
-  email: support@redowlgames.com
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 
-google_analytics: 
+paginate: 6
+paginate_path: "/blog/page:num/"
+  
