@@ -1,6 +1,6 @@
 ---
-title: Red Owl Games
-subtitle: About
+title: About
+subtitle: Meet the duo
 description: Making Games Together to Play Together.
 ---
 
