@@ -11,7 +11,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Blog'
-      url: '/'
+      url: '/blog/'
     - title: 'Games'
       url: '/projects/'
     - title: 'About'
