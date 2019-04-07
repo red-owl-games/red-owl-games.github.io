@@ -1,12 +1,9 @@
 ---
 title: 'It’s official, Red Owl LLC is here!'
 date: 2019-02-03 00:00:00
-featured_image: '/images/square.jpg'
 excerpt: I can’t wait to see what we can create together and where this journey will take us.
-published: false
+published: true
 ---
-
-![](/images/sidebar.jpg)
 
 When we first met, @rocktavious had a dream.  A dream to have his own game studio.  That was back in 2012.  Since then, he’s left the games industry, we’ve gotten married and had two kids, I left the workforce entirely and he’s never lost sight of his dream.  Then, a few months after our daughter was born, I lamented being out of the workforce and we agreed to get started with this company @rocktavious had been dreaming about.  
 

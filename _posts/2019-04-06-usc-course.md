@@ -1,12 +1,9 @@
 ---
 title: 'Time for a Test Run!'
 date: 2019-04-06 00:00:00
-featured_image: '/images/square.jpg'
 excerpt: It was the perfect opportunity to get my feet wet in the game development life cycle while also finding out how well @rocktavious and I would work together.
-published: false
+published: true
 ---
-
-![](/images/sidebar.jpg)
 
 We formed a company.  We spent countless hours talking about the games we want.  We created a mission, values, company goals.  We bought a domain.  The another!  We have official email addressed.  We even finally have a bank account (with money in it!).
 
@@ -20,6 +17,6 @@ If you’re interested, head over and play out the single level coop game: [2 >1
 
 The class left a bit to be desired in terms of site layout.  The navigation really drove me nuts.  But overall it was completely worth the price for us.  It gave us a good jumping off point for coming up with templates for a concept doc, asset list and general unity project structure.  After a few more iterations of small games, we’ll post those docs up for anyone that’s interested.  Most of what we found out there is just too complex or convoluted.  
 
-The class gave me great insight into the entire life cycle even though this was just a single cycle.  I came out of the class excited to make another game and see where we can take Red Owl.  It also gave me a bit of a confidence boost that this adventure won’t be led by @rocktavious with me tagging along behind him.  We’re going to be walking the path together.  The further we got into the class, the more clear it became that we both have some great strengths that we bring to the table and they really compliment each other very well.  @Rocktavious has a better handle on some of the more complex Unity coding we had to do (for now!) since he has so much more experience with Unity than I do but out of the gate I was definitely able to contribute to coding 2 > 1 as well.  I was definitely the one that kept the scope creep down as well.  Seriously, we can’t add that right now!
+The class gave me great insight into the entire life cycle even though this was just a single cycle.  I came out of the class excited to make another game and see where we can take Red Owl.  It also gave me a bit of a confidence boost that this adventure won’t be led by @rocktavious with me tagging along behind him.  We’re going to be walking the path together.  The further we got into the class, the more clear it became that we both have some great strengths that we bring to the table and they really compliment each other very well.  @rocktavious has a better handle on some of the more complex Unity coding we had to do (for now!) since he has so much more experience with Unity than I do but out of the gate I was definitely able to contribute to coding 2 > 1 as well.  I was definitely the one that kept the scope creep down as well.  Seriously, we can’t add that right now!
 
 The course is complete.  Our first dry run as a game studio can be marked as a success.  Now on to our first game jam.  Let’s try it again, but do it all in 72 hours instead of 6 weeks!

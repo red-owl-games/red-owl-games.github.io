@@ -79,11 +79,11 @@
 	@include mq(tabletl) {
 		position: absolute;
 		bottom: 0;
-		padding: 40px 40px 34px;
+		padding: 20px 20px 34px;
 	}
 
 	@include mq(laptop) {
-		padding: 60px 60px 52px;
+		padding: 30px 30px 52px;
 	}
 }
 
