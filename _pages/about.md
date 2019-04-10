@@ -6,7 +6,7 @@ description: Making Games Together to Play Together.
 
 We are a husband and wife indie game studio balancing life with two kids, work, developing games we're proud of and enjoying life along the way.
 
-## Meet @emmy-oop
+## Meet @emmyoop
 #### CFO / Designer / Engineer / Bug Hunter
 
 I'm a mother, a photographer and a mathematician.  I'm not who I thought I would be growing up.  But I'm really happy with where I am.  I'm excited to start this journey with @rocktavious and see what we can create together.  
