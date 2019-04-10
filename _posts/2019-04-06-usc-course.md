@@ -13,7 +13,7 @@ Then @rocktavious mentioned that he had been wanting to take a [Unity game devel
 
 The answer turned out to be yes.  A pretty easy yes.  I’m not sure why I thought we would butt heads so much.  It turned out, we were often on the same page, generally listened to each others ideas, and were able to make a game better than expected in just 6 weeks.  It’s a small game; only one level.  But it’s fun, or so people tell us, and it has plenty of room to grow.  Maybe one day we’ll circle back and make it a full game!
 
-If you’re interested, head over and play our single level coop game: [2 >1](https://redowlgames.com/project/2gt1)!
+If you’re interested, head over and play our single level coop game: [2 > 1](https://redowlgames.com/project/2gt1)!
 
 The class left a bit to be desired in terms of site layout.  The navigation really drove me nuts.  But overall it was completely worth the price for us.  It gave us a good jumping off point for coming up with templates for a concept doc, asset list and general unity project structure.  After a few more iterations of small games, we’ll do a blog post on the process we've honed if anyone's interested. 
 
