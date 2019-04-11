@@ -29,6 +29,8 @@
 	<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt }}{% endif %}">
 	<meta name="twitter:image:src" content="{{ site.url }}{{ page.featured_image }}">
 
+	<script src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 	<!-- Facebook OpenGraph -->
 	<meta property="og:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" />
 	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt }}{% endif %}" />
