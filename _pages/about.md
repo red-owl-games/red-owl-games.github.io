@@ -6,7 +6,7 @@ description: Making Games Together to Play Together.
 
 We are a husband and wife indie game studio balancing life with two kids, work, developing games we're proud of and enjoying life along the way.
 
-## Meet @emmyoop <a href="https://twitter.com/emmy_oop?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @emmy_oop</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+## Meet @emmy_oop <a href="https://twitter.com/emmy_oop?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @emmy_oop</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 #### CFO / Designer / Engineer / Bug Hunter
 
 I'm a mother, a photographer and a mathematician.  I'm not who I thought I would be growing up.  But I'm really happy with where I am.  I'm excited to start this journey with @rocktavious and see what we can create together.  
@@ -21,5 +21,5 @@ I got my first job in the games industry back in 2009. Since then, I've worked f
 
 Running a video game studio has been a longtime dream of mine.  Since I got my first job in the games industry I've wanted to learn everything, not just how the game development process works, but also how a successful business runs.  I want to make a place where people are proud of the work they do but not killing themselves in the process.
 
-I'm incredibly excited that @emmy-oop has decided to come with me on this journey.  I see great potential in what we could bring to all of you and I also hope you will enjoy it!
+I'm incredibly excited that @emmy_oop has decided to come with me on this journey.  I see great potential in what we could bring to all of you and I also hope you will enjoy it!
 
