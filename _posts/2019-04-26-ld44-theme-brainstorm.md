@@ -11,6 +11,7 @@ published: false
 **_Limited memory_** (-1)
 
   - You have to rewind physics to win, but how far you can rewind is limited by how far into the game you are.
+  - Puzzle game where you only can make so many move but they don't take affect until you lock the moves in
 
 **_Ridiculously overpowered_** (-1)
 
@@ -26,11 +27,11 @@ published: false
 
 **_Space exploration_** (-1)
 
-  - brilliant idea!
+  - Oregan Trail in Space (a literal wagon)
 
 **_Change the genre of a classic video game_** (+1)
 
-  - brilliant idea!
+  - Pacman city builder
 
 **_Only one enemy_** (-1)
 
@@ -51,16 +52,18 @@ published: false
 **_Everything has a price_** (-1)
 
   - To win the game, you or your partner must sacrifice themselves but the other must survive.
+  - Item shop where you buy your shops items and sell your items and try to make a profit
 
 **_Contagious_** (+1)
 
   - Everything you do effects everything else.  
-  - Enimies take on the same things you do?
+  - Enemies take on the same things you do?
   - You and your partner get the same powerups
 
 **_Tiny town_** (+1)
 
   - Sim Ant!
+  - Local Elections / Trying to become mayor
 
 **_Mutation_** (+1)
 
