@@ -2,7 +2,7 @@
 title: 'Brainstorming!'
 date: 2019-04-26 00:00:00
 excerpt: 16 Themes. 2 Days.  Over 16 ideas!
-published: false
+published: true
 ---
 
 @Mikekasprzak ‏has posted the final 16 themes for [Ludum Dare 44](https://ldjam.com/).  @Rocktavious suggested to brainstorm game ideas for each theme to get our creative juices flowing.  Here's how far we got before the final (actual) theme was posted.  
