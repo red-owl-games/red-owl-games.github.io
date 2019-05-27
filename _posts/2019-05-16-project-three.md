@@ -29,5 +29,5 @@ So we have an idea!  Yes!  Next step, planning.
 **Start Date:** May 12, 2019  
 **End Date:** September 30, 2019  
 
-Our first sprint is planned, we've started work, and things are going smoothly so far.  We expect to hit the delays of life along the way (kids activities, trips, sleep...) but are hoping to have a great mid-sized game in the end that you all can play!
+Our first sprint is planned, we've started work, and things are going smoothly so far.  We expect to hit the delays of life along the way (kids activities, trips, sleep...) but are hoping to have a great mid-sized game in the end!
 
