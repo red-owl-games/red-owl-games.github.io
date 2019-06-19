@@ -24,10 +24,10 @@ But we won't leave you with nothing!  Take a look at the awesome art concepts th
 
 
 <div class="gallery" data-columns="1">
-    <img src="https://live.staticflickr.com/65535/48087773881_ddf5fb43a0_o.jpg" height="800" width="800">
-    <img src="https://live.staticflickr.com/65535/48087871907_0157d001f9_o.jpg" height="800" width="800">
-    <img src="https://live.staticflickr.com/65535/48087871957_1874ed7c2e_o.jpg" height="800" width="800">
-    <img src="https://live.staticflickr.com/65535/48087813398_89bf23d197_o.jpg" height="800" width="800">
-    <img src="https://live.staticflickr.com/65535/48087813443_7b34b6e69c_o.jpg" height="800" width="800">
-    <img src="https://live.staticflickr.com/65535/48087872172_bd9a17531b_o.jpg" height="800" width="800">
+    <img src="https://live.staticflickr.com/65535/48087773881_ddf5fb43a0_o.jpg" height="477" width="849">
+    <img src="https://live.staticflickr.com/65535/48087871907_0157d001f9_o.jpg" height="477" width="849">
+    <img src="https://live.staticflickr.com/65535/48087871957_1874ed7c2e_o.jpg" height="477" width="849">
+    <img src="https://live.staticflickr.com/65535/48087813398_89bf23d197_o.jpg" height="477" width="849">
+    <img src="https://live.staticflickr.com/65535/48087813443_7b34b6e69c_o.jpg" height="477" width="849">
+    <img src="https://live.staticflickr.com/65535/48087872172_bd9a17531b_o.jpg" height="477" width="849">
 </div>
