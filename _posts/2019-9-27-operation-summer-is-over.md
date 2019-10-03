@@ -5,11 +5,11 @@ excerpt: Hot & Slow
 published: true
 ---
 
-Sorry we've been silent for so long.  The summer time is a big vacation/travel time for our family.  Pair with that a strategy switch in how we are going about the development of "operation cartwheel" has throw a big wrench into our initial plans.
+Sorry we've been silent for so long.  The summer time is a big vacation/travel time for our family.  Pair with that a strategy switch in how we are going about the development of "operation cartwheel" has thrown a big wrench into our initial plans.
 
 Emily has decided she wants to look more into music and art development and I've taken over writing the core coding system.  This change paired with all the travel and taking care of the kids (inbetween my day job @ Under Armour) has been a huge drain on available time.
 
-I've also been doing some contract work for a tool we will eventually use to get some sweet, sweet data analytics from our games - https://github.com/mixpanel/mixpanel-unity - I'll be doing a future blog post on my foray into revamping their SDK.
+I've also been doing some contract work for a tool we will eventually use to get some sweet, sweet data analytics from our games - [Mixpanel](https://github.com/mixpanel/mixpanel-unity) - I'll be doing a future blog post on my foray into revamping their SDK.
 
 All this to say, we havn't spent as much time on the game as we'd have liked.  BUT!  We have been progressing slowly and surely.  We unfortunately do not have anything worth while to show for it as its mainly just getting code systems in place and learning how to do everything.
 
