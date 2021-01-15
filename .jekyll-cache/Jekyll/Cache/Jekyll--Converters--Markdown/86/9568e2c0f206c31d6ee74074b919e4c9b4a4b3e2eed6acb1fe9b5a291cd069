@@ -1,0 +1,20 @@
+I"�<p><a href="https://ldjam.com/">Ludum Dare 44</a> is about to start and we’re ready.  @Rocktavious has been through a few of these already.  I usually try to take the one to two children we have, given if #2 was born yet, and give @rocktavious the house for the weekend.  Usually that means heading up to my parents’ house for some Granny and Opa time.  This time we’ll be braving the game jam as a family of four!  With the guidence of @rocktavious, a few suggestions from me, and what we learned from the <a href="https://unity.com/learn/unity-usc-games-unlocked">Unity game development class</a>, we’ve made an effort to get prepared.</p>
+
+<p>To save some time, we went ahead and got some things set up that we know we’ll most likely need, regardless of what game we dream up.  One of the things I think will be the biggest help is the concept document and asset list.  We went through the documents the USC course had us turn in as assingments and spent an hour or so talking though them and finding out what we each thought was useful and what was a waste of time.  I’m sure the documents will continue to evolve as we continue to make games, but they’re going to be helpful in planning out the pieces of our game idea and bringing it to life.  Once we get a few more game iterations in, I’ll post about those docs and how they evolved.</p>
+
+<p>Another thing that is going to be helpful, especially to me as a new Unity user, is that we created a new Unity project called LD44.  It’s really just a skeleton of a project so that it has a lot set up that we will need, regardless of the type of game we decide to create.  It serves two purposes.  It gave me some practice creating a new project and setting it up (without any real time contraints) and it also is going to save us time and let us get up and running with actual game development right off the bat.  Some of what we decided would be useful was to create a basic folder structure, import the Red Owl Framework that includes some tools Red Owl Games maintains, and some assets we just know we’ll want, and set up a private GitHub repo for the project.  @Rocktavious also wrote tools to automatically build our project to check for compile errors and hooked that up as well.</p>
+
+<p>Some other things we did that will hopefully save us a bit of time during our 72 hour adventure include:</p>
+
+<ul>
+  <li>created a separate unity project and went ahead and downloaded some art and sound assets we purchased to save some time importing them as needed</li>
+  <li>set up the <a href="https://redowlgames.itch.io/ld44">itch.io page</a> where our game will live</li>
+  <li>closed up some open questions we had from building <a href="https://redowlgames.com/project/2gt1">2 &gt; 1</a></li>
+  <li>found a babysitter for our 2.5 year old for one of the mornings</li>
+  <li>crossed our fingers that our 6 month old will be content and want to nap all day</li>
+  <li>set up a second work station</li>
+  <li>stocked the fridge with easy/healthy meals and a few unhealthy snacks too!</li>
+</ul>
+
+<p>Once the game jam is done, we’ll have to circle back and figure out what helped us, what would have helped us, and what really made no difference at all.</p>
+:ET

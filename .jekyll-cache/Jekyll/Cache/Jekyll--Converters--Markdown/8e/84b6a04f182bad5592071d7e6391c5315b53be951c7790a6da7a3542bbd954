@@ -1,0 +1,45 @@
+I"u<p>I have to say, we did a pretty good job of time estimates for the first sprint.  We estimed I would have 14-20 hours over 2 weeks to devote to game development and I ended up spending about 20 hours working on the game.  @Rocktavious estimated about 24-28 hours to work on the game over 2 weeks and was also pretty close to that estimate.</p>
+
+<p>A lot of the time estimates we made for individual tasks were also pretty accurate.  First, though, let’s take a step back and talk about how we decided to assign these metrics to our tasks.  We decided to estimate task difficulty in terms of time:</p>
+
+<ul>
+  <li>Easy - 0-2 Hours</li>
+  <li>Medium - 2-6 Hours</li>
+  <li>Hard - 6+ Hours</li>
+</ul>
+
+<p>Once we decided on those time ranges, we went through our task list and assigned difficulty ratings.  We also assigned tasks a priority rating of High, Medium, and Low.  I think those values are pretty self explanatory.  The priority value evolves with each sprint.  Then, based on those ratings we were able to estimate which tasks we would be able to take and complete in a single two week sprint.  To help us improve our time estimation skills, we decided to also record how long a task actually took us to complete when we were going in to close the task.  This way, we could review what we estimated and what the reality was, and make better estimates for the next sprint.</p>
+
+<p>I think we really made some great progress for this first sprint.  We have a prototype up and running in Unity with “planes,” “submarines,” and “boats.” The quotation marks just emphasize that we haven’t really started on any art yet!  All three player/enemy types look EXACTLY the same.  Each is just colored differently.  They also have differnt bahaviours as planes can only fly in the sky, boats must stay on top of the water, and submarines stay under the water.  For this stage it’s definitely good enough.</p>
+
+<p><img src="/images/posts/OCSprint1.png" alt="image of the various vehicle types" /></p>
+
+<p>For this next sprint we decided to get some better artwork to at least make each of them look like what they really are - even if it’s not the end product.  This should help players visualize what we’re going for a bit more when playing our first vertical slice.</p>
+
+<p>Let’s review what we got done this sprint!  The three types of, let’s call them vehicles, all move.  Players can be controlled with a key board or a game controller!  Enemies either fly in a stright line or in a yoyo pattern across the screen in either direction.  Both players and enemies can shoot bullets or lasers and both have hit detection.  Enemies will despawn when hit once (we’ll be growing the parameters of when enemies die) and nothing happens to players as we have not built out the health system yet.  We also have some primitive and random waves that we can generate from the front or the back of the screen.  The plan is to actually design and create more deliberate waves to make the gameplay as fun as possible.</p>
+
+<p>In working through this first sprint, @rocktavious and I found new tasks to add to the task list and removed some surprising tasks as well.  Namely, we removed the task to create enemy AI.  For now, we think going with some enemy flight patterns will suffice.  Would you call that AI?</p>
+
+<p>For me, a lot of the next sprint is going to consist of designing:</p>
+
+<ul>
+  <li>enemy flight patterns</li>
+  <li>projectile patterns</li>
+  <li>special abilities for both enemies and players</li>
+  <li>wave design</li>
+</ul>
+
+<p>As part of all the design work, I’ll be prototyping out various game mechanics I or @rocktavious come up with to answer a few basic questions:</p>
+
+<ul>
+  <li>can we do it?</li>
+  <li>does it add anything to the game?</li>
+  <li>does it take anything away from the game?</li>
+</ul>
+
+<p>I took a lot of design tasks because I plan to be away with my mom and the kids for a few days.  So I’ll be away from my computer and thought work fits well with that!  This way I’ll (hopefully) not lose too much ground while on vacation at the pool!</p>
+
+<p>For @rocktavious, the majority of his tasks are going to be art related.  He’s going to need to hunker down and work on art for, at the least, the planes and submarines.  So he can’t play too much <a href="https://www.graveyardkeeper.com/">Graveyard Keeper</a> while the kids and I are away for a few days!</p>
+
+<p>Time to keep pushing forward!</p>
+:ET

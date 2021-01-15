@@ -1,0 +1,47 @@
+I"‘<p><iframe frameborder="0" src="https://itch.io/embed-upload/1342178?color=53575c" allowfullscreen="" width="980" height="620">Loading...</iframe></p>
+
+<h4 id="controls">Controls</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Action</th>
+      <th>Player A</th>
+      <th>Player B</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Movement</td>
+      <td>WASD</td>
+      <td>Arrow Keys</td>
+    </tr>
+    <tr>
+      <td>Jump</td>
+      <td>Space Bar</td>
+      <td>Period</td>
+    </tr>
+    <tr>
+      <td>Select</td>
+      <td>E</td>
+      <td>Comma</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Thanks for playtesting our game.  Itâ€™s still a work in progress so please take the time to answer the questioneer below to help make our game better!</p>
+
+<p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSctQv4eRhOBWCWoDEzSGk_1pKKmy8NHZynqzl-qTDqAp090tw/viewform?embedded=true" width="640" height="1807" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></p>
+
+<h4 id="known-bugs">Known Bugs</h4>
+
+<ul>
+  <li>None at this time</li>
+</ul>
+
+<h4 id="open-questions">Open Questions</h4>
+
+<ul>
+  <li>What are the best control keys for Player B?</li>
+</ul>
+:ET

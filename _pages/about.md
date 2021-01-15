@@ -13,6 +13,8 @@ I'm a mother, a photographer and a mathematician.  I'm not who I thought I would
 
 I'm new to game development and am working to catch up with @rocktavious.  Unity makes things relatively easy to get going which has made the process a lot of fun.  I'm bringing my own skills from a past life to the team as well.  I have to say, I do love a good todo list!
 
+Catch up with me at [rockman.life](https://www.rockman.life).
+
 
 ## Meet @rocktavious <a href="https://twitter.com/rocktavious?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @rocktavious</a>
 #### CTO / Artist / Designer / Tester

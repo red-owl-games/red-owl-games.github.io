@@ -1,0 +1,50 @@
+I"}<p>Annie and Ollie must use their flesh and blood, otherwise known as their mud and stone, to stop the volcano from breaking through and destroying the tiny town their family resides in.  They must work together to build a barrier to the lava. Stone only sticks to mud and mud only sticks to stone.   They will pay with their lives, win or lose.</p>
+
+<p><b>If you'd like us to play your LD44 game too, just enter it into the  form at the bottom of the page.</b></p>
+
+<p><iframe frameborder="0" src="https://itch.io/embed-upload/1402954?color=814f54" allowfullscreen="" width="655" height="975"></iframe></p>
+
+<h4 id="controls">Controls</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Action</th>
+      <th>Annie Mud</th>
+      <th>Ollie Rock</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Aim</td>
+      <td>AD</td>
+      <td>Arrow Keys</td>
+    </tr>
+    <tr>
+      <td>Shoot</td>
+      <td>W</td>
+      <td>Up Arrow</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Goal of the game is to score 100 before the lava rises to your tiles. We didn’t have time to balance the game so it is pretty easy to “win” right now. The secondary goal is to score as high as possible before the lava ends the game.</p>
+
+<p>We enjoyed our first jam together.  Hope you enjoy the game!</p>
+
+<p><iframe src="https://docs.google.com/forms/d/1p1p_CK8Ps67uB2UrLqfxukxixim493GtmTfrtLpKvdg/viewform?embedded=true" width="640" height="1807" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></p>
+
+<h4 id="known-bugs">Known Bugs</h4>
+
+<ul>
+  <li>None at this time</li>
+</ul>
+
+<h4 id="possible-feature-additions">Possible Feature Additions</h4>
+
+<ul>
+  <li>Mechanic to allow players to lower lava to lengthen game play and give possibility to increase score.</li>
+  <li>Periodic earthquakes that shake tiles off the board.</li>
+  <li>Animation of players degrading and they sacrifice more and more of their bodies.</li>
+</ul>
+:ET

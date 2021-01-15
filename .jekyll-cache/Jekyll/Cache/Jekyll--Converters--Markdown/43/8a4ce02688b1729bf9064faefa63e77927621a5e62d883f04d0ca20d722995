@@ -1,0 +1,67 @@
+I"P<p>Keep it lit.</p>
+
+<p><b>If you'd like us to play your LD46 game too, just just fill out the form at the bottom of the page.</b></p>
+
+<p><iframe frameborder="0" src="https://itch.io/embed-upload/2183185?color=605050" allowfullscreen="" width="975" height="635"><a href="https://redowlgames.itch.io/ld46">Play LD46 - Flare on itch.io</a></iframe></p>
+<h4 id="controls">Controls</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Action</th>
+      <th>Top Down View/Top Screen</th>
+      <th>Side View/Bottom Screen</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pause</td>
+      <td>Escape Key</td>
+      <td>Escape Key</td>
+    </tr>
+    <tr>
+      <td>Switch Controls</td>
+      <td>Space Bar</td>
+      <td>Space Bar</td>
+    </tr>
+    <tr>
+      <td>Left</td>
+      <td>left arrow</td>
+      <td>A</td>
+    </tr>
+    <tr>
+      <td>Right</td>
+      <td>right arrow</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Up</td>
+      <td>up arrow</td>
+      <td>W</td>
+    </tr>
+    <tr>
+      <td>Down</td>
+      <td>down arrow</td>
+      <td>S</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>We hope you enjoy the game!</p>
+
+<p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeSH01SVn3dqOnl13kMGdQRpz2Ddd3MVSfGYx34tsKQ60xIww/viewform?embedded=true" width="640" height="844" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+
+<h4 id="known-bugs">Known Bugs</h4>
+
+<ul>
+  <li>Player movement is allowed while game is paused</li>
+  <li>No sfx for portal</li>
+</ul>
+
+<h4 id="possible-feature-additions">Possible Feature Additions</h4>
+
+<ul>
+  <li>Art for portal</li>
+  <li>Ice mechanic</li>
+</ul>
+:ET

@@ -1,0 +1,91 @@
+I"�6<p>Friday October 4th @ 5PM CDT to Monday October 7th, 2019 @ 5PM CDT</p>
+
+<p><strong>Theme:</strong> Start with Nothing</p>
+
+<p><strong>Outcome:</strong> Pretty great considering we had both kids the entire 72 hours!</p>
+
+<p><strong>Summary:</strong> I think we ended up with a better game than either of us expected.  Having both kids obviously throws a wrench into things because let’s face it, kids like attention.  But our kids are pretty great and it turns out that the new roles we’ve taken on at Red Owl Games have made it pretty conducive to splitting our time.  Having breaks was also nice so that we didn’t dig ourselves into any holes.</p>
+
+<h2 id="friday">Friday</h2>
+
+<p>We’re motivated.  We’re ready.  We’re happy with our pre-event final theme brainstorming efforts.  Let’s do this!</p>
+
+<p><em>Start with Nothing…</em>  Seriously?? That applies to basically 95% of games that exist.  But I guess that’s good and bad because we could pretty much make any game we want?  At least the theme wasn’t <strong>Factory</strong>.</p>
+
+<p>Once we got over the initial shock of the blase theme, we picked the game we were going to make:</p>
+
+<p>Grow a tree from a seed into a large tree.</p>
+
+<p>Initially, this idea was under the <strong>Evolution</strong> theme of our pre-event theme brainstorm.  The idea was going to be to start with a seed, grow the tree, pick a mutation, evolve, grow, repeat and eventually see if you can survive some sort of event - drought, hurricane, nuclear attack, etc.  That was way more than we needed for this theme, and frankly a larger game then we had time to make, so we decided to just start as a seed underground (nothing) and grow into a nice big tree.  We had a lot of discussion around what would make growing a tree a fun game.  I didn’t believe it could be but @rocktavious convinced me that we should make the game an experience and leverage off of his art skills and my new found music skills.</p>
+
+<p>Cultivation was born.</p>
+
+<p>@rocktavious was adamant that we should programatically generate the tree branches to make it a better game.  I thought it was overkill for a game jam.  I went to bed around 9pm with a plan to start our design doc and task list in the morning.  @rocktavious stayed up until midnight working on programmatic branch generation.  He explored many fractal tree growth algorithms: L-Systems, space-colonization, and a brute force approach of child spawns child spawns child infinitely forever.</p>
+
+<h2 id="saturday">Saturday</h2>
+
+<p>We wake up, play with the kids, eat some cereal for breakfast.  Of course, Oliver insisted on pouring his own.  We chat about more game ideas while eating.  Head upstairs, get dressed, chat some more.  Then it’s off to Home Depot to get our First Saturday Kid’s Project.</p>
+
+<p>If you don’t know about this, the first Saturday of every month Home Depot hosts a FREE kid’s project.  Kid’s can even get FREE orange Home Depot aprons.  You can do the project there or just walk in, grab the project, and complete it at home.  Honestly, it gets pretty crazy busy (@rocktavious had to work on the floor once) so we just do the projects at home now.</p>
+
+<p>I took my computer along to finish up the task list and we filled in some tasks, priority levels and assignees while driving to and from Home Depot.  Then on the way home we stopped to grab some Starbucks and KC Donuts.  They have <strong>the best</strong> giant donut holes.  We even got one filled with cream for Oliver.  They fill their donuts on the spot.  So good.</p>
+
+<p>Since @rocktavious had some more work to do on the programmatic tree branching I took the kids most of the morning while he worked on getting that going.  Since branching is the heart of a tree growing game, it was basically our highest priority to get done.  While he did that, I put Annette down for a nap and Oliver and I made this awesome felt cat!</p>
+
+<p><img src="https://live.staticflickr.com/65535/48866084078_51c2136035_b.jpg" height="477" width="849" /></p>
+
+<p>We ate lunch, played with the kids while we caught up on what @rocktavious had been working on and then put the kids down for a nap.  We planned for nap time to be our most productive time since it was the only time both kids would be sleeping at the same time so we could both work simultaneously.  Luckily, both our kids take nice strong afternoon naps so we were sure to get 2-4 hours solid.</p>
+
+<p>I was able to sit down and write most of our music layers.  Since this game was about the experience, we had decided that the music should basically be written as layers that build upon each other.  It was going to start nice and slow, sparse almost and then slowly add layers.  Instruments, notes, melodies.  So over the course of the nap, I was able to get most of the tracks down in FL Studio.  In the short amount of time I’ve been composing music, I’ve leaned how helpful it is to step away from what you’re writing for a while and come back to it later.  The kids both woke up at almost the prefect time for me to step away and let the music sink in.  I wanted to finish up a couple things before I stopped music development with the plan to add 1-2 more tracks/layers and mix the music next.  Then, I’d be moving the composition into FMOD to hook up parameters so we could programatically modify the music within the game.</p>
+
+<p>@rocktavious took this nap time to continue to work on fractal tree algorithms but kept running into road blocks and wasn’t getting anywhere productive. In hindsight he probably should have taken the brute force approach earlier and been done with it by now.</p>
+
+<p>So, kids are up, I’m working on our music, @rocktavious is watching the kids and Annette needs a new diaper.  Our kids have super sensitive skin so we generally let them hang out naked for ~10 minutes before putting on a new diaper.  @rocktavious and I are talking about the music and layers I’ve written while we listen to it.  Oliver starts complaining about something.  He keeps complaining.  We turn around.  Annette has pooped on the carpet, Oliver has stepped in it and tried to wipe it off with his hands.  We go into problem mode.  @rocktavious takes Annette to wash her off in the tub, I grab Oliver and shower him down.  Proceed to clean the poop off the carpet, the couch, and under the couch.  You know what? A 72 hour game jame with 2 kids under 4 is tough!  But on the plus side, the music and layers were looping in the background this whole time. We found it was pretty relaxing and not annoying so that was good!</p>
+
+<p>Our day moves on.  We eat dinner.  @rocktavious is feeling defeated by his three attempts at a branch growing system.  I tell him again we should should pre design the tree.  We all head to bed early (seriously, 8:30pm) because we are all exhausted.</p>
+
+<h2 id="sunday">Sunday</h2>
+
+<p>Time to get to work!  But, breakfast first.  Cereal again.  I used some new beans for espresso.  They were a bit oily but overall pretty good.  4 espresso shots for me.</p>
+
+<p>I played outside with both kids while @rocktavious was suppose to work more on his tree growth algorithms.  Without my knowledge he decided to move past working on the tree growth system to the rest of the game set up and made some great progress.  So while I didn’t know he was working on that, it was a good choice!</p>
+
+<p>Then we traded off kid time and I got some work in with the music,  I finished up the tracks and was able to mix them.  I opened up FMOD and realized I didn’t remember anything about it.  So I spent about an hour fiddling with it to figure out how to parameterize the music layers.  While I worked on that, @rocktavious and Oliver paint the two Home Depot kid’s projects we had - a scarecrow and a tow truck.  Annette took a nap at some point and we just continued chugging along.</p>
+
+<p>While both kids napped, I worked on getting everything set up with FMOD and importing it into the game.  At the same time @rocktavious started to hit a performance issue from instantiating too many objects at one time when the tree was large.  So @rocktavious worked on trying to improve the performance as much as he could.  We end up deciding we’ll end the game right around the time when the performance starts to tank.  Great idea!  Then, both kids are up and we’re all going a bit stircrazy.  So off to dinner we go.  @rocktavious took the kids to play at the park while I ordered some pizza, got drinks and our table set up.  We eat, kids play more. We head home and get a text that some friends are heading to the neighborhood park.  We decide a break is good and head to that park to let the kids play a bit more.  When it starts to get dark we head home and take showers!</p>
+
+<p>During our meal, we had talked about how we could make the game fun. The game was supposed to be an experience and so far we’ve found that watching the branches grow while listening to the music was relaxing.  But it just wasn’t enough.  Then I came up with the idea of adding some art work as the camera zooms out.  Nothing extra in the first zoom level, then a dog house, a house, a city, etc.  Just a nice touch.  So that task got created and put onto @rocktavious’ plate.  While in the task list we went through them all, updated/deleted/added as needed to get where we needed to be by the end of Monday.</p>
+
+<p>We also took some time at the end of the day to playtest the game together after the kids were in bed.  We tweaked all the parameters in the tree growth system @rocktavious built. How long they are, how often they branch, how thick they get, everything associated with the tree trunk, branches and roots etc.  The game starts to look like it’s coming together.  I guess @rocktavious was right about the programmatic tree generation.  It’s pretty awesome that you get a unique tree every time you play!</p>
+
+<h2 id="monday">Monday</h2>
+
+<p>Once again, I took the kids in the backyard while @rocktavious worked.  This time on art!</p>
+
+<p><img src="https://live.staticflickr.com/65535/48866803952_8e64ee87cf_b.jpg" height="477" width="849" /></p>
+
+<p>I also took some time to start setting up our halloween decorations.  It’s that time of year!</p>
+
+<p>While Annette napped, we let Oliver watch some tv so we could both work.  I started adding details to the itch.io page and our LD submission page so all we needed to do was embed the game.  Then @rocktavious and Oliver finished up the tow truck and scarecrow projects while I tweaked the music a bit more.  @rocktavious also played some Civilization with Oliver.  I had to remind him that the game jam wasn’t over yet!</p>
+
+<p><img src="https://live.staticflickr.com/65535/48866083818_a027a2cb90_b.jpg" height="477" width="849" /></p>
+
+<p>We ate lunch, played a bit, then put the kids down for their afternoon naps.  Four hours to go!  I went ahead and did a WebGL build to test out that everything was working.  We’d been doing builds all along but not yet for WebGL because they take so long to build.  And Unity froze up mid build.  Tried again…. successful build!  Uploaded it…. but we got a JS error and the game wouldn’t load.  Boo.  FMOD was the issue.  @rocktavious finished up his artwork, added it to the project and proceeded to debug the FMOD error.  Without music, our game is not nearly the same experience so it was pretty high priority to get it fixed!  While he worked to debug the error, I added some polish to our game.  An about screen, a game completion screen.  I adjusted some colors and buttons.  Annette cried after about 1 1/2 hours but went back to sleep (thankfully).  @rocktavious got the build to work and you could play the game BUT the music wasn’t playing.  Still an issue with FMOD?  He proceeds to work more and at one point reads something about modifying the Unity JS output directly after the build… bad idea.  We start to get nervous that we won’t be able to figure this out so decide that our backup plan is to upload the WebGL version that doesn’t have music and also upload a Windows build you can download and play because the music works for those.  We upload it and <strong>it works</strong>!  It turns out the build wasn’t broken there is just a bug when playing it directly from Unity due to how Chrome audio devices work now.  Thanks google! (both for breaking it and for helping us find a thread on the problem)</p>
+
+<p>We publish with 15 minutes and 29 seconds left until 5pm!  Phew…</p>
+
+<h2 id="postmortem">Postmortem</h2>
+
+<p>One of the best things about postmortems is to reflect on the whole process of making a game from idea to shipping it and figure out what you’d like to do better next time.  You should also acknowledge the things that happened this time and the challenges you overcame.</p>
+
+<p>We made a complete game while taking care of 2 kids under 3 in 72 hours… and we think its pretty good too! That’s a huge achievement!</p>
+
+<p>Some things that could have gone better:</p>
+<ul>
+  <li>Automated build system to findout the WebGL build error earlier (probably could have caught this pre-event when we setup the project before hand)</li>
+  <li>itch.io WebGL aspect ratios (we ended up building the game an extra 3 times near the end to adjust these)</li>
+  <li>FMOD (we lost some development time to debugging and not knowing it deeply enough)</li>
+  <li>Need to remember not to spend so much time coding - while we did successfully get a brute force tree branch algorithm we likely spent too much time on it and @rocktavious had alot of failed attempts at it early on that ate up our precious time and his sleep.</li>
+  <li>Scene management - we use http://doozyui.com/ and it helps out a ton but @rocktavious thinks he found a bug in it when working with a Multi-Scene setup in Unity that caused a few extra panicked builds near the end (I think we built the game almost 12 times in WebGL mode before finally uploading the final 1.0.0 version)</li>
+</ul>
+:ET
